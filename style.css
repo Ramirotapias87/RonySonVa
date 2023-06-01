@@ -1,6 +1,13 @@
 *{
     background-color: hsl(0, 100%, 100%);
 }
+body{
+  height: 400px;
+  background-image: url(https://www.muchomasquedanza.com/wp-content/uploads/2020/12/Centro-de-Danza-Sandra-Santa-Cruz_Avda.de-Escaleritas56-scaled.jpeg);
+  background-size: cover;
+  background-repeat:no-repeat;
+  background-position: center center;
+}
 header {
     background-color: #a30505; 
     color: rgb(22, 19, 19); 
