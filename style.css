@@ -1,15 +1,15 @@
-.tabla {
-    border-collapse: collapse; /* fusionar bordes de celda */
-    width: 100%; /* ancho de tabla */
+.table {
+    border-collapse: collapse; 
+    width: 100%; 
   }
   
-  .tabla th, .tabla td {
-    border: 1px solid black; /* borde de celda */
-    padding: 8px; /* espacio interno de celda */
-    text-align: left; /* alinear texto a la izquierda */
+  .table th, .table td {
+    border: 1px solid black; 
+    padding: 8px; 
+    text-align: left; 
   }
   
-  .tabla th {
-    background-color: #f2f2f2; /* color de fondo de encabezado */
-    color: black; /* color de texto de encabezado */
+  .table th {
+    background-color: #f2f2f2; 
+    color: black; 
   }
